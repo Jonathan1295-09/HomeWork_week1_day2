@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: lightslategray;
+    text-size-adjust: 350px;
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.header-main-logo{
+    width: 100px;
+    height: 100px;
+}
+
+.header-main-nav{
+    
+}
